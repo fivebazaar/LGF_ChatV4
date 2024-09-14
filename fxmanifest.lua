@@ -11,6 +11,6 @@ shared_scripts {'@ox_lib/init.lua','shared/*.lua',"framework/GetFramework.lua",}
 client_scripts {'client/**/*'}
 server_scripts {'@oxmysql/lib/MySQL.lua','server/**/*'}
 
-files { "framework/legacy/*.lua", "framework/esx/*.lua","framework/qbox/*.lua", 'web/build/index.html','web/build/**/*',}
+files { "framework/legacy/*.lua", "framework/esx/*.lua","framework/qbox/*.lua", "framework/qb-core/*.lua", 'web/build/index.html','web/build/**/*',}
 ui_page 'web/build/index.html'
 
