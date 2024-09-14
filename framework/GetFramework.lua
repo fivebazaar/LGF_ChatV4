@@ -9,7 +9,7 @@ local CONTEXT_PATHS = {
 --[[ NEED TO CALL THE FOLDER WHIT THE NAME ASSOCIATED]]
 local FRAMEWORKS = {
     ['es_extended'] = { folder = 'esx' },
-    ['qb-core'] = { folder = 'qb-core' },
+    ['qb-core'] = { folder = 'qbcore' },
     ['LEGACYCORE'] = { folder = 'legacy' },
     ['CUSTOM'] = { folder = 'custom' }
 }
